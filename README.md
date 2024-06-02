@@ -1,2 +1,2 @@
 # lightswitching
-html,css (light on and off switch
+html,css (light on and off switch)
